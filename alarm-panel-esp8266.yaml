@@ -75,7 +75,7 @@ packages:
   remote_package:
     url: https://github.com/ImSorryButWho/konnected-esphome
     ref: package-esp8266
-    refresh: 5min
+    refresh: 1s
     files:
 
       ####
