@@ -73,8 +73,8 @@ substitutions:
 packages:
 
   remote_package:
-    url: https://github.com/konnected-io/konnected-esphome
-    ref: master
+    url: https://github.com/ImSorryButWho/konnected-esphome
+    ref: package-esp8266
     refresh: 5min
     files:
 
